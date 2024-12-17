@@ -1,3 +1,2 @@
 # Hercules-begining
-Give your knowlwdge here 
-Always keep grinding until negu became grandfather.
+Give your knowlwdge here. keep coding .keep exploring. keep learning.
