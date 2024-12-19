@@ -1,0 +1,26 @@
+#include<stdio.h>
+int main()
+{
+  float a,b,c,d,e,per;
+printf("Enter percentage of five students\n");
+scanf("%f%f%f%f%f",&a,&b,&c,&d,&e);
+per=(a+b+c+d+e)/5;
+printf("The percentage =%f\n", per);
+if (per>=80)
+{ 
+  printf("Distinction");
+}
+else if(per>=60 && per<=79)
+{
+  printf("first division");
+}
+else if(per>=40 && per<=59)
+{
+  printf("second division");
+}
+else
+{
+  printf("fail");
+}
+return 0;
+}
