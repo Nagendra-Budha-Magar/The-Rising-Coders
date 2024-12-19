@@ -6,5 +6,5 @@ If need help you can contact any team member.
 Team Member with github username<br>
 1>Kushal Shrestha-->Kush-Shrestha<br>
 2>Nabin Thapa-->nabinthapa07-mgr<br>
-3>Nagendra Buda-->Ashish Budha<br>
+3>Nagendra Budha-->Ashish_Budha<br>
 4>Binay Chaudhary-->binay111
