@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 4</title>
+    <link rel="stylesheet" href="./assets/css/index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <!-- Start of hero and header section -->
+    <div class="Hero">
+        <!-- Start of header section -->
+        <header>
+            <div class="navbar">
+                <h1 class="site-title">Logo</h1>
+                <ul>
+                    <li><a href="#Home">Home</a></li>
+                    <li><a href="#About">About</a></li>
+                    <li><a href="#Contact">Contact</a></li>
+                </ul>
+                <button type="button"><span></span>Buy Now</button>
+            </div>
+        </header>
+    </div>
+    <!-- Enable of navbar section -->
+    <!-- Home section -->
+    <section id="Home">
+        <div class="container">
+            <div class="row">
+                <div class="content">
+                    <h1>Introduce Your product Quickly & Effectively</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores velit architecto vero iusto
+                        dignissimos voluptatem accusamus nesciunt ducimus, itaque quia provident, molestias optio ullam
+                        voluptates nemo nobis earum, iure quidem?<br><br>Lorem ipsum dolor, sit amet consectetur
+                        adipisicing elit. Cupiditate, quidem asperiores quisquam consectetur obcaecati ut dolores,
+                        maxime ipsum qui in harum officia? Repellendus non quisquam deleniti dignissimos, tempora dolore
+                        corporis.
+                    </p>
+                    <br>
+                    <button type="button"><span>Purchase UI kit</span></button>
+                    <button class="button"><span>Learn More</span></button>
+                </div>
+                <div class="home-content">
+                    <img src="./assets/images/image1.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Hero and home section -->/
+    <main>
+        <!-- Start of main section -->
+        <!-- Start of about section -->
+        <section id="About">
+            <div class="container">
+                <div class="row">
+                    <div class="about-content">
+                        <h2>Light,Fast & Powerful</h2>
+                        <p>
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda provident consectetur
+                            quo
+                            vero, illo, eaque repudiandae quos numquam, tempore dolores doloribus dignissimos voluptas
+                            unde
+                            non. Non dignissimos odit ducimus labore?<br><br>Lorem ipsum dolor sit amet, consectetur
+                            adipisicing elit. Qui sed earum magni accusamus. Fugiat quas maiores explicabo nemo
+                            voluptates
+                            aperiam aliquam ea fugit, eos enim et asperiores, dolorum doloribus facere!
+                        </p>
+                        <div class="row">
+                            <div class="card">
+                                <img src="./assets/images/icon.png" alt="">
+                                <h3>Title Goes Here</h3>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur obcaecati
+                                    velit
+                                    quis quam provident impedit, nulla iusto eius culpa earum aspernatur facilis
+                                    dignissimos
+                                    maiores fuga dolore veniam sint. Voluptatibus, voluptate!
+                                </p>
+                            </div>
+                            <div class="card">
+                                <img src="./assets/images/icon.png" alt="">
+                                <h3>Title Goes Here</h3>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur obcaecati
+                                    velit
+                                    quis quam provident impedit, nulla iusto eius culpa earum aspernatur facilis
+                                    dignissimos
+                                    maiores fuga dolore veniam sint. Voluptatibus, voluptate!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="img-content">
+                        <img src="./assets/images/image2.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End of about section -->
+        <!-- Start of Others section -->
+        <section id="About-2">
+            <div class="container">
+                <div class="row">
+                    <div class="img-column">
+                        <img src="./assets/images/image3.png" alt="">
+                    </div>
+                    <div class="column">
+                        <h2>Light Fast & Powerful</h2>
+                        <p>
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos iure fuga tempore voluptates
+                            et facere laborum quia aut unde, perspiciatis modi expedita cum voluptatem eius beatae a
+                            nesciunt delectus similique!<br><br>Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Animi delectus quae inventore officiis reprehenderit mollitia vel. Magnam odit
+                            dolores, veniam cupiditate soluta facere recusandae, quisquam, dignissimos expedita
+                            inventore sit voluptatibus!
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Next  -->
+        <section id="about-3">
+            <div class="container">
+                <div class="row">
+                    <div class="img-column">
+                        <img src="./assets/images/image4.png" alt="">
+                    </div>
+                    <div class="column">
+                        <h2>Light, Fast & Powerful</h2>
+                        <p>
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis aliquam provident
+                            dignissimos cum deserunt consequuntur nostrum alias neque itaque minus eos sunt error nam,
+                            in rerum illum hic culpa dolorem!<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing
+                            elit. Soluta, ea. Ullam eius assumenda porro maxime asperiores dolore saepe iste
+                            necessitatibus aliquid distinctio ipsam eveniet delectus repudiandae provident suscipit,
+                            culpa deserunt.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Next -->
+        <section id="about-4">
+            <div class="container">
+                <div class="row">
+                    <div class="img-column">
+                        <img src="./assets/images/image5.png" alt="">
+                    </div>
+                    <div class="column">
+                        <h2>Light, Fast & Powerful</h2>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi sed quidem placeat velit
+                            quaerat architecto ullam, nemo perspiciatis esse nostrum quia natus eaque illo a maiores vel
+                            possimus animi unde?<br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            Repellat laborum corporis placeat id cumque ut soluta esse ea, at optio veritatis quas
+                            maxime a omnis minus saepe illo delectus aliquid.
+                        </p>
+                        <button type="button"><span>Purchase Now</span></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <!-- Star of purchase section -->
+    <section id="Purchase">
+        <div class="container-2">
+            <h2>A Price To Suit Everyone</h2>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus omnis nobis tempore <br> ducimus
+                magni quod tempora esse consequuntur sunt provident,commodi placeat libero qui <br> magnam eius
+                voluptates
+                reprehenderit aut eum!
+            </p>
+
+            <h1>$40</h1>
+            <p>UI Design Kit</p>
+            <div class="paragraph">
+                <p>
+                    See, One price. Simple.
+                </p>
+            </div>
+            <button type="button">Purchase Now</button>
+
+        </div>
+    </section>
+    <!-- End of main section -->
+    <footer>
+        <!-- Start of footer section -->
+        <section id="Contact">
+            <div class="Footer-section">
+                <div class="footer-items">
+                    <div class="footer-left">
+                        &copy;2023 Yourcompany
+                    </div>
+                    <div class="footer-between">
+                        logo
+                    </div>
+                    <div class="footer-right">
+                        <button type="button">Purchase Now</button>
+                    </div>
+                </div>
+                <hr>
+                <div class="footer-items">
+                    <div class="footer-left1">
+                        <ul>
+                            <li><a href="#Home">Home</a></li>
+                            <li><a href="#About">About</a></li>
+                            <li><a href="#Contact">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-right1">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </footer>
+</body>
+
+</html>
