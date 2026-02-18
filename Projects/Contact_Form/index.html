@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Student Contact Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 class="creator">The Rising Coders</h1>
+
+<div class="container">
+    <h2>Contact Form</h2>
+
+    <form action="save.php" method="POST" onsubmit="return validateForm()">
+        <input type="text" id="name" name="name" placeholder="Enter Name"><br>
+        <input type="email" id="email" name="email" placeholder="Enter Email"><br>
+        <textarea id="message" name="message" placeholder="Enter Message"></textarea><br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <p id="error"></p>
+</div>
+
+<p class="footer">&copy; 2026 The Rising Coders</p>
+
+<script src="script.js"></script>
+</body>
+
+</html>
+
+
