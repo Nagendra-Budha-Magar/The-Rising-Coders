@@ -13,20 +13,25 @@
     <h2>Contact Form</h2>
 
     <form action="save.php" method="POST" onsubmit="return validateForm()">
+        <input type="hidden" id="id" name="id" value="">
         <input type="text" id="name" name="name" placeholder="Enter Name"><br>
         <input type="email" id="email" name="email" placeholder="Enter Email"><br>
         <textarea id="message" name="message" placeholder="Enter Message"></textarea><br>
-        <button type="submit">Submit</button>
+        <button type="submit" id="submitBtn">Submit</button>
     </form>
 
     <p id="error"></p>
+
 </div>
+
+
+    <h2>Saved Contacts</h2>
+    <div id="contactsTable">
+        <!-- Contact list will be loaded here -->
+    </div>
 
 <p class="footer">&copy; 2026 The Rising Coders</p>
 
 <script src="script.js"></script>
 </body>
-
 </html>
-
-

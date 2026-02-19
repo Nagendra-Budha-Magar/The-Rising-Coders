@@ -67,7 +67,6 @@ button:hover {
 }
 
 .footer {
-    position: fixed;
     bottom: 10px;
     width: 100%;
     text-align: center;
@@ -81,3 +80,49 @@ button:hover {
     transition: 0.3s ease;
 }
 
+#contactsTable table {
+    width: 100%;
+    border-collapse: separate; 
+    border-spacing: 0;         
+    background: #ffffff;
+    border-radius: 15px;
+    overflow: hidden;         
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+#contactsTable th, #contactsTable td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+}
+
+#contactsTable th {
+    background-color: #667eea;
+    color: #fff;
+}
+
+#contactsTable tr:hover {
+    background-color: #f2f2f2;
+}
+
+#contactsTable button {
+    background: #667eea;
+    color: white;
+    border: none;
+    padding: 5px 12px;    
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+    margin-right: 8px;     
+    transition: 0.3s;
+}
+
+#contactsTable button:last-child {
+    margin-top: 5px;      
+}
+
+#contactsTable button:hover {
+    background: #764ba2;
+}
